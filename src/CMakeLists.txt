@@ -18,3 +18,4 @@ add_compile_options(/W4 /WX)
 
 add_subdirectory(common)
 add_subdirectory(client)
+add_subdirectory(example)
